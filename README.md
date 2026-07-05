@@ -10,13 +10,28 @@ The original source code is kept in its original form whenever possible.
 
 ## Preserved Releases
 
+* Kuzuha Script β24 (auto-link version) — 1999-08-06
+* Kuzuha Script Final Beta #2 Patch Level 0.3 — 1999-11-19
+* Kuzuha Script Rev.0.1 Preview 9 — 2000-09-03
+* Kuzuha Script Rev.0.1 Preview 9 (update patch)
+* Kuzuha Script Final Beta #2 pl0.3 + "Yousei" variant, dated 2000-03-06
 * Kuzuha Script Rev.0.1 Preview 9
 * Kuzuha Script + @Kuzuha Moe ver1.1.1
+
+Note: two archives (`dauso0001.lzh` and `kscrr1p9.lzh`) both identify
+themselves internally as "Rev.0.1 Preview 9," but they are distinct
+deployed instances with different embedded server configuration —
+not duplicates. Both are preserved as-is.
 
 ## Repository Structure
 
 ```text
 archive/
+├── bbsb24l.lzh
+├── kuzuhascript_finalbeta_2_pl03.lzh
+├── kscrr1p9.lzh
+├── kscrr1p9up.lzh
+├── ksfb2pl03y20000306.lzh
 ├── dauso0001.lzh
 └── dauso0028.lzh
 
@@ -24,6 +39,15 @@ checksums.txt
 LICENSE-NOTICE.md
 README.md
 ```
+
+## How These Files Were Found
+
+The releases listed above (β24, Final Beta #2 pl0.3, Rev.0.1 Preview 9,
+Rev.0.1 Preview 9 update patch, and the "Yousei" 2000-03-06 variant)
+were recovered from personal CD-R backup media during an unrelated
+hardware excavation project, and added to this archive on 2026-07-05.
+They predate the previously known earliest preserved release and were
+not sourced from the original download site listed below.
 
 ## Original Download Source
 
@@ -76,13 +100,28 @@ If any copyright holder requests modification or removal of archived materials, 
 
 ## 保存対象
 
+* くずはすくりぷと β24(自動リンク対応版) — 1999-08-06
+* くずはすくりぷと Final Beta #2 Patch Level 0.3 — 1999-11-19
+* くずはすくりぷと Rev.0.1 Preview 9 — 2000-09-03
+* くずはすくりぷと Rev.0.1 Preview 9(アップデートパッチ)
+* くずはすくりぷと Final Beta #2 pl0.3 + 妖精版(2000-03-06付)
 * くずはすくりぷと Rev.0.1 Preview 9
 * くずはすくりぷと + ＠くずは萌え ver1.1.1
+
+補足: `dauso0001.lzh` と `kscrr1p9.lzh` はいずれも内部的に
+「Rev.0.1 Preview 9」を名乗っていますが、埋め込まれたサーバー設定が
+異なる別々の運用インスタンスの保存物であり、重複ではありません。
+どちらもそのまま保存しています。
 
 ## リポジトリ構成
 
 ```text
 archive/
+├── bbsb24l.lzh
+├── kuzuhascript_finalbeta_2_pl03.lzh
+├── kscrr1p9.lzh
+├── kscrr1p9up.lzh
+├── ksfb2pl03y20000306.lzh
 ├── dauso0001.lzh
 └── dauso0028.lzh
 
@@ -90,6 +129,15 @@ checksums.txt
 LICENSE-NOTICE.md
 README.md
 ```
+
+## 発見の経緯
+
+上記のうちβ24、Final Beta #2 pl0.3、Rev.0.1 Preview 9、
+Rev.0.1 Preview 9アップデートパッチ、妖精版(2000-03-06付)の各版は、
+本アーカイブとは別件のレトロハードウェア発掘作業の過程で、個人の
+CD-Rバックアップメディアから発見され、2026-07-05に本アーカイブへ
+追加されました。これらは従来確認されていた最古の保存版より古く、
+下記の入手元サイトから取得したものではありません。
 
 ## 入手先
 
