@@ -31,7 +31,9 @@ archive/
 ├── kuzuhascript_finalbeta_2_pl03.lzh
 ├── kscrr1p9.lzh
 ├── kscrr1p9up.lzh
-├── ksfb2pl03y20000306.lzh
+├── miraiscript/
+│   ├── ksfb2pl03y20000306.lzh
+│   └── jcodeg_pl.txt
 ├── dauso0001.lzh
 └── dauso0028.lzh
 
@@ -39,6 +41,10 @@ checksums.txt
 LICENSE-NOTICE.md
 README.md
 ```
+
+The `miraiscript/` subdirectory name is preserved as found on the
+original CD-R media, reflecting the original uploader's own folder
+naming.
 
 ## How These Files Were Found
 
@@ -84,6 +90,14 @@ No explicit open source license could be found in the original distribution arch
 
 All copyrights remain with the original authors.
 
+Note on `miraiscript/jcodeg_pl.txt`: this file is a derivative work
+combining Kazumasa Utashiro's original `jcode.pl`, the `getcode()`
+routine from gama's `getcode.pl`, and further modifications by
+"町の妖精さん" (Machi no Yousei-san). The modifier's own comment
+states that no additional editorial copyright is claimed over the
+modification itself; underlying copyrights remain with the original
+authors.
+
 This repository does not claim ownership of the original software and preserves the files for historical research and archival purposes.
 
 If any copyright holder requests modification or removal of archived materials, please contact the repository owner.
@@ -121,7 +135,9 @@ archive/
 ├── kuzuhascript_finalbeta_2_pl03.lzh
 ├── kscrr1p9.lzh
 ├── kscrr1p9up.lzh
-├── ksfb2pl03y20000306.lzh
+├── miraiscript/
+│   ├── ksfb2pl03y20000306.lzh
+│   └── jcodeg_pl.txt
 ├── dauso0001.lzh
 └── dauso0028.lzh
 
@@ -129,6 +145,9 @@ checksums.txt
 LICENSE-NOTICE.md
 README.md
 ```
+
+`miraiscript/` というサブディレクトリ名は、発見時のCD-Rメディア上の
+構成をそのまま踏襲したもので、元の配布者自身によるフォルダ名です。
 
 ## 発見の経緯
 
@@ -175,6 +194,13 @@ Web Archive：
 原本には明示的なオープンソースライセンスは確認できませんでした。
 
 著作権は原作者に帰属します。
+
+`miraiscript/jcodeg_pl.txt` について: 本ファイルは、歌代和正さんに
+よるオリジナルの`jcode.pl`、gamaさんの`getcode.pl`が持つ
+`getcode()`ルーチン、および「町の妖精さん」による改変が重なった
+派生物です。改変者自身のコメントにより、改変部分について追加の
+編集著作権は主張しない旨が明記されていますが、原著作物の著作権は
+元の著作者に帰属します。
 
 本リポジトリは、歴史的・研究的資料としてアーカイブを保存するものであり、原著作物の権利を主張するものではありません。
 
