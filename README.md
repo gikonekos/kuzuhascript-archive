@@ -50,7 +50,7 @@ naming.
 
 The releases listed above (β24, Final Beta #2 pl0.3, Rev.0.1 Preview 9,
 Rev.0.1 Preview 9 update patch, and the "Yousei" 2000-03-06 variant)
-were recovered from personal CD-R backup media during an unrelated
+were recovered from my CD-R backup media during an unrelated
 hardware excavation project, and added to this archive on 2026-07-05.
 They predate the previously known earliest preserved release and were
 not sourced from the original download site listed below.
@@ -153,7 +153,7 @@ README.md
 
 上記のうちβ24、Final Beta #2 pl0.3、Rev.0.1 Preview 9、
 Rev.0.1 Preview 9アップデートパッチ、妖精版(2000-03-06付)の各版は、
-本アーカイブとは別件のレトロハードウェア発掘作業の過程で、個人の
+本アーカイブとは別件のレトロハードウェア発掘作業の過程で、私の
 CD-Rバックアップメディアから発見され、2026-07-05に本アーカイブへ
 追加されました。これらは従来確認されていた最古の保存版より古く、
 下記の入手元サイトから取得したものではありません。
