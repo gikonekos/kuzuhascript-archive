@@ -8,6 +8,25 @@ The original source code is kept in its original form whenever possible.
 
 **Initial archival release:** 2026-07-01 20:00 JST (11:00 UTC)
 
+## Quick Start
+
+| Goal | Go here |
+|------|---------|
+| Browse preserved `.lzh` archives | [`archive/`](./archive/) |
+| Check file integrity | [`checksums.txt`](./checksums.txt) |
+| Read copyright/license notes | [`LICENSE-NOTICE.md`](./LICENSE-NOTICE.md) |
+| Use a modernized (UTF-8) version | → [kuzuhascript-utf8](https://github.com/gikonekos/kuzuhascript-utf8) |
+| See a live deployment (UTF-8 port) | → [zantei-utf8](https://github.com/gikonekos/zantei-utf8) |
+
+## Related Projects
+
+| Repository | Relationship |
+|------------|-------------|
+| [kuzuhascript-utf8](https://github.com/gikonekos/kuzuhascript-utf8) | UTF-8 / Perl 5.38+ port of Rev.0.1 Preview 9 |
+| [zantei-utf8](https://github.com/gikonekos/zantei-utf8) | UTF-8 update of the あやしいわーるど＠暫定 deployment (kuzuhascript-based) |
+| [ksphp-plus-gikonekos](https://github.com/gikonekos/ksphp-plus-gikonekos) | PHP successor project in the same BBS tradition |
+| [legacy-bbs-toolkit](https://github.com/gikonekos/legacy-bbs-toolkit) | Preprocessing toolkit for legacy Japanese BBS archives |
+
 ## Preserved Releases
 
 * Kuzuha Script β24 (auto-link version) — 1999-08-06
@@ -112,6 +131,25 @@ If any copyright holder requests modification or removal of archived materials, 
 
 **初回アーカイブ公開:** 2026-07-01 20:00 JST (11:00 UTC)
 
+## クイックスタート
+
+| 目的 | リンク |
+|------|--------|
+| 保存済み `.lzh` アーカイブを確認 | [`archive/`](./archive/) |
+| ファイルの整合性を確認 | [`checksums.txt`](./checksums.txt) |
+| 著作権・ライセンスを確認 | [`LICENSE-NOTICE.md`](./LICENSE-NOTICE.md) |
+| UTF-8対応の現代化版を使う | → [kuzuhascript-utf8](https://github.com/gikonekos/kuzuhascript-utf8) |
+| 実際の運用版（UTF-8化済み）を見る | → [zantei-utf8](https://github.com/gikonekos/zantei-utf8) |
+
+## 関連プロジェクト
+
+| リポジトリ | 関係 |
+|------------|------|
+| [kuzuhascript-utf8](https://github.com/gikonekos/kuzuhascript-utf8) | Rev.0.1 Preview 9 の UTF-8 / Perl 5.38+ 移植版 |
+| [zantei-utf8](https://github.com/gikonekos/zantei-utf8) | あやしいわーるど＠暫定の運用版をUTF-8化したプロジェクト |
+| [ksphp-plus-gikonekos](https://github.com/gikonekos/ksphp-plus-gikonekos) | 同じBBS文化の流れを汲むPHP後継プロジェクト |
+| [legacy-bbs-toolkit](https://github.com/gikonekos/legacy-bbs-toolkit) | 旧日本語BBSアーカイブの前処理ツールキット |
+
 ## 保存対象
 
 * くずはすくりぷと β24(自動リンク対応版) — 1999-08-06
@@ -205,4 +243,3 @@ Web Archive：
 本リポジトリは、歴史的・研究的資料としてアーカイブを保存するものであり、原著作物の権利を主張するものではありません。
 
 権利者から修正・削除の申し出があった場合は、誠実に対応いたします。
-
